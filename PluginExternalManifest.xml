@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+	<plugin version="5" minimumframeworkversion="2" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-5.dpk" production="true" />
+</plugins>
