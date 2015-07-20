@@ -2,4 +2,5 @@
 <plugins>
 	<plugin version="5" minimumframeworkversion="2" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-5.dpk" production="true" />
 	<plugin version="6" minimumframeworkversion="7" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-6.dpk" production="true" />
+	<plugin version="7" minimumframeworkversion="7" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-7.dpk" production="true" />
 </plugins>
