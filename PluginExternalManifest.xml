@@ -16,4 +16,5 @@
 	<plugin version="18" minimumframeworkversion="13" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-18.dpk" production="true" />
 	<plugin version="19" minimumframeworkversion="13" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-19.dpk" production="true" />
 	<plugin version="20" minimumframeworkversion="13" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-20.dpk" production="true" />
+	<plugin version="21" minimumframeworkversion="13" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-21.dpk" production="true" />
 </plugins>
