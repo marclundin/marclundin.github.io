@@ -37,4 +37,5 @@
 	<plugin version="40" minimumframeworkversion="22" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-40.dpk" production="true" />
 	<plugin version="41" minimumframeworkversion="22" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-41.dpk" production="true" />
 	<plugin version="42" minimumframeworkversion="22" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-42.dpk" production="true" />
+	<plugin version="43" minimumframeworkversion="22" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-43.dpk" production="true" />
 </plugins>
