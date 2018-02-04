@@ -93,4 +93,5 @@
 	<plugin version="120" minimumframeworkversion="32" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-120.dpk" production="true" />
 	<plugin version="121" minimumframeworkversion="32" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-121.dpk" production="true" />
 	<plugin version="122" minimumframeworkversion="32" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-122.dpk" production="true" />
+	<plugin version="123" minimumframeworkversion="32" url="https://marclundin.github.io/Disa.Framework.Facebook.Mobile-123.dpk" production="true" />
 </plugins>
